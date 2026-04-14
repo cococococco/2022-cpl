@@ -1,0 +1,227 @@
+<mxfile host="app.diagrams.net" pages="2">
+  <diagram name="第 1 页" id="HozHxaPpCVBZHqZOf4Md">
+    <mxGraphModel dx="926" dy="600" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="U4NZR34LwNwep-i9Mwku-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E7FBE6;strokeColor=#82b366;glass=0;" value="HTML5/CSS3/JS" vertex="1">
+          <mxGeometry height="40" width="380" x="280" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="U4NZR34LwNwep-i9Mwku-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;perimeterSpacing=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="320" width="380" x="280" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="U4NZR34LwNwep-i9Mwku-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="" vertex="1">
+          <mxGeometry height="40" width="380" x="280" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="U4NZR34LwNwep-i9Mwku-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFE6CC;strokeColor=#d79b00;" value="" vertex="1">
+          <mxGeometry height="40" width="380" x="280" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="U4NZR34LwNwep-i9Mwku-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" value="RESTful API&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="320" x="310" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="U4NZR34LwNwep-i9Mwku-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#B0CDF5;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="218" width="360" x="290" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="U4NZR34LwNwep-i9Mwku-65" edge="1" parent="1" source="U4NZR34LwNwep-i9Mwku-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="U4NZR34LwNwep-i9Mwku-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="644" y="325" />
+              <mxPoint x="644" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U4NZR34LwNwep-i9Mwku-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="自主Agent模块" vertex="1">
+          <mxGeometry height="30" width="321" x="310" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="U4NZR34LwNwep-i9Mwku-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7EA6E0;" value="" vertex="1">
+          <mxGeometry height="160" width="70" x="560" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="U4NZR34LwNwep-i9Mwku-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7EA6E0;strokeColor=default;" value="" vertex="1">
+          <mxGeometry height="70" width="220" x="310" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="U4NZR34LwNwep-i9Mwku-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#7EA6E0;" value="" vertex="1">
+          <mxGeometry height="78" width="220" x="310" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="U4NZR34LwNwep-i9Mwku-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="展示层" vertex="1">
+          <mxGeometry height="30" width="60" x="210" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="U4NZR34LwNwep-i9Mwku-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="应用层" vertex="1">
+          <mxGeometry height="30" width="60" x="210" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="U4NZR34LwNwep-i9Mwku-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="算法层" vertex="1">
+          <mxGeometry height="30" width="60" x="210" y="545" as="geometry" />
+        </mxCell>
+        <mxCell id="U4NZR34LwNwep-i9Mwku-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="基建层" vertex="1">
+          <mxGeometry height="30" width="60" x="210" y="595" as="geometry" />
+        </mxCell>
+        <mxCell id="U4NZR34LwNwep-i9Mwku-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" value="Python 3.11 + Flask 2.0" vertex="1">
+          <mxGeometry height="30" width="320" x="310" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="U4NZR34LwNwep-i9Mwku-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="核心服务层" vertex="1">
+          <mxGeometry height="30" width="110" x="140" y="394" as="geometry" />
+        </mxCell>
+        <mxCell id="U4NZR34LwNwep-i9Mwku-21" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="230.5" y="410" as="sourcePoint" />
+            <mxPoint x="300.5" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U4NZR34LwNwep-i9Mwku-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="上下文管理&lt;div&gt;模块&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="93" x="300.5" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="U4NZR34LwNwep-i9Mwku-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="记忆管理&lt;div&gt;模块&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="292" y="454" as="geometry" />
+        </mxCell>
+        <mxCell id="U4NZR34LwNwep-i9Mwku-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="工具管理模块" vertex="1">
+          <mxGeometry height="33" width="60" x="565" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="U4NZR34LwNwep-i9Mwku-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="混合检索" vertex="1">
+          <mxGeometry height="20" width="73" x="300.5" y="548" as="geometry" />
+        </mxCell>
+        <mxCell id="U4NZR34LwNwep-i9Mwku-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="时间衰减" vertex="1">
+          <mxGeometry height="20" width="73" x="393" y="548" as="geometry" />
+        </mxCell>
+        <mxCell id="U4NZR34LwNwep-i9Mwku-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="MMR去重" vertex="1">
+          <mxGeometry height="20" width="73" x="479.5" y="548" as="geometry" />
+        </mxCell>
+        <mxCell id="U4NZR34LwNwep-i9Mwku-30" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="上下文压缩" vertex="1">
+          <mxGeometry height="20" width="73" x="566.5" y="548" as="geometry" />
+        </mxCell>
+        <mxCell id="U4NZR34LwNwep-i9Mwku-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="记忆" vertex="1">
+          <mxGeometry height="20" width="73" x="320" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="U4NZR34LwNwep-i9Mwku-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="知识" vertex="1">
+          <mxGeometry height="20" width="73" x="433.5" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="U4NZR34LwNwep-i9Mwku-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="LLM" vertex="1">
+          <mxGeometry height="20" width="73" x="547" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="U4NZR34LwNwep-i9Mwku-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="对话历史" vertex="1">
+          <mxGeometry height="20" width="60" x="380" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="U4NZR34LwNwep-i9Mwku-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="上下文压缩" vertex="1">
+          <mxGeometry height="20" width="71" x="450" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="U4NZR34LwNwep-i9Mwku-47" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="日志更新" vertex="1">
+          <mxGeometry height="20" width="61" x="380" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="U4NZR34LwNwep-i9Mwku-48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="记忆更新" vertex="1">
+          <mxGeometry height="20" width="70" x="451" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="U4NZR34LwNwep-i9Mwku-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="每日记忆&lt;div&gt;存储&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="377" y="434.13" as="geometry" />
+        </mxCell>
+        <mxCell id="U4NZR34LwNwep-i9Mwku-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="长期记忆&lt;div&gt;更新&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="377" y="473" as="geometry" />
+        </mxCell>
+        <mxCell id="U4NZR34LwNwep-i9Mwku-51" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="用户信息&lt;div&gt;管理&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="446.5" y="433.38" as="geometry" />
+        </mxCell>
+        <mxCell id="U4NZR34LwNwep-i9Mwku-52" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="记忆文件&lt;div&gt;管理&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="446.5" y="473" as="geometry" />
+        </mxCell>
+        <mxCell id="U4NZR34LwNwep-i9Mwku-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="记忆工具" vertex="1">
+          <mxGeometry height="30" width="60" x="565" y="393" as="geometry" />
+        </mxCell>
+        <mxCell id="U4NZR34LwNwep-i9Mwku-55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="文本搜索" vertex="1">
+          <mxGeometry height="30" width="60" x="565" y="431.5" as="geometry" />
+        </mxCell>
+        <mxCell id="U4NZR34LwNwep-i9Mwku-56" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="扩展支持" vertex="1">
+          <mxGeometry height="31.5" width="60" x="565" y="471.5" as="geometry" />
+        </mxCell>
+        <mxCell id="U4NZR34LwNwep-i9Mwku-63" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="532" y="384.5" as="sourcePoint" />
+            <mxPoint x="560" y="384.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U4NZR34LwNwep-i9Mwku-64" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="532" y="468.5" as="sourcePoint" />
+            <mxPoint x="560" y="468.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="JUJMjFUKoYToC3YSMjsg" name="第 2 页">
+    <mxGraphModel dx="926" dy="600" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="n5_pPfGK2vTlMEEAhu4P-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#f5f5f5;fontColor=#333333;" value="" vertex="1">
+          <mxGeometry height="400" width="333" x="227" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="n5_pPfGK2vTlMEEAhu4P-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#FEFFF2;dashed=1;" value="" vertex="1">
+          <mxGeometry height="230" width="257.5" x="252.5" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="n5_pPfGK2vTlMEEAhu4P-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#FEFFF2;dashed=1;" value="" vertex="1">
+          <mxGeometry height="120" width="260" x="250" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="n5_pPfGK2vTlMEEAhu4P-13" edge="1" parent="1" source="n5_pPfGK2vTlMEEAhu4P-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="n5_pPfGK2vTlMEEAhu4P-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n5_pPfGK2vTlMEEAhu4P-14" edge="1" parent="1" source="n5_pPfGK2vTlMEEAhu4P-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="n5_pPfGK2vTlMEEAhu4P-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n5_pPfGK2vTlMEEAhu4P-15" edge="1" parent="1" source="n5_pPfGK2vTlMEEAhu4P-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="n5_pPfGK2vTlMEEAhu4P-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n5_pPfGK2vTlMEEAhu4P-16" edge="1" parent="1" source="n5_pPfGK2vTlMEEAhu4P-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="n5_pPfGK2vTlMEEAhu4P-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n5_pPfGK2vTlMEEAhu4P-17" edge="1" parent="1" source="n5_pPfGK2vTlMEEAhu4P-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="n5_pPfGK2vTlMEEAhu4P-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n5_pPfGK2vTlMEEAhu4P-18" edge="1" parent="1" source="n5_pPfGK2vTlMEEAhu4P-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" target="n5_pPfGK2vTlMEEAhu4P-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n5_pPfGK2vTlMEEAhu4P-4" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=1;strokeColor=default;align=center;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="用户" vertex="1">
+          <mxGeometry height="60" width="30" x="110" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="n5_pPfGK2vTlMEEAhu4P-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="&lt;div data-page-id=&quot;Ajjld60XQobquVxwAPBce9Ghn3S&quot; data-lark-html-role=&quot;root&quot; data-docx-has-block-data=&quot;false&quot;&gt;&lt;div class=&quot;ace-line ace-line old-record-id-NyMQdnCjcogfPwxT58XciKU6nJf&quot;&gt;管理个人档案&lt;/div&gt;&lt;/div&gt;&lt;span data-lark-record-data=&quot;{&amp;quot;rootId&amp;quot;:&amp;quot;Ajjld60XQobquVxwAPBce9Ghn3S&amp;quot;,&amp;quot;text&amp;quot;:{&amp;quot;initialAttributedTexts&amp;quot;:{&amp;quot;text&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;管理个人档案&amp;quot;},&amp;quot;attribs&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;*0+6&amp;quot;}},&amp;quot;apool&amp;quot;:{&amp;quot;numToAttrib&amp;quot;:{&amp;quot;0&amp;quot;:[&amp;quot;author&amp;quot;,&amp;quot;7210366426987724801&amp;quot;]},&amp;quot;nextNum&amp;quot;:1}},&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;referenceRecordMap&amp;quot;:{},&amp;quot;extra&amp;quot;:{&amp;quot;channel&amp;quot;:&amp;quot;saas&amp;quot;,&amp;quot;isEqualBlockSelection&amp;quot;:true,&amp;quot;pasteRandomId&amp;quot;:&amp;quot;f7eb469f-8376-4574-9c98-826c60017a72&amp;quot;,&amp;quot;mention_page_title&amp;quot;:{},&amp;quot;external_mention_url&amp;quot;:{}},&amp;quot;isKeepQuoteContainer&amp;quot;:false,&amp;quot;isFromCode&amp;quot;:false,&amp;quot;selection&amp;quot;:[{&amp;quot;id&amp;quot;:353,&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;selection&amp;quot;:{&amp;quot;start&amp;quot;:0,&amp;quot;end&amp;quot;:6},&amp;quot;recordId&amp;quot;:&amp;quot;NyMQdnCjcogfPwxT58XciKU6nJf&amp;quot;}],&amp;quot;payloadMap&amp;quot;:{},&amp;quot;isCut&amp;quot;:false}&quot; data-lark-record-format=&quot;docx/text&quot; class=&quot;lark-record-clipboard&quot;&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="290" y="135" as="geometry" />
+        </mxCell>
+        <mxCell id="n5_pPfGK2vTlMEEAhu4P-25" edge="1" parent="1" source="n5_pPfGK2vTlMEEAhu4P-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;curved=0;startArrow=none;startFill=0;dashed=1;strokeWidth=1;" target="n5_pPfGK2vTlMEEAhu4P-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n5_pPfGK2vTlMEEAhu4P-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="&lt;div data-page-id=&quot;Ajjld60XQobquVxwAPBce9Ghn3S&quot; data-lark-html-role=&quot;root&quot; data-docx-has-block-data=&quot;false&quot;&gt;&lt;div class=&quot;ace-line ace-line old-record-id-F9bgd2WZQo6FrIxcKRLcYr8Jnsd&quot;&gt;追踪长期&lt;/div&gt;&lt;div class=&quot;ace-line ace-line old-record-id-F9bgd2WZQo6FrIxcKRLcYr8Jnsd&quot;&gt;健康状况&lt;/div&gt;&lt;/div&gt;&lt;span data-lark-record-data=&quot;{&amp;quot;rootId&amp;quot;:&amp;quot;Ajjld60XQobquVxwAPBce9Ghn3S&amp;quot;,&amp;quot;text&amp;quot;:{&amp;quot;initialAttributedTexts&amp;quot;:{&amp;quot;text&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;追踪长期健康状况&amp;quot;},&amp;quot;attribs&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;*0+8&amp;quot;}},&amp;quot;apool&amp;quot;:{&amp;quot;numToAttrib&amp;quot;:{&amp;quot;0&amp;quot;:[&amp;quot;author&amp;quot;,&amp;quot;7210366426987724801&amp;quot;]},&amp;quot;nextNum&amp;quot;:1}},&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;referenceRecordMap&amp;quot;:{},&amp;quot;extra&amp;quot;:{&amp;quot;channel&amp;quot;:&amp;quot;saas&amp;quot;,&amp;quot;isEqualBlockSelection&amp;quot;:true,&amp;quot;pasteRandomId&amp;quot;:&amp;quot;6fbf92aa-0ac8-4b89-a759-4cc3a8f39043&amp;quot;,&amp;quot;mention_page_title&amp;quot;:{},&amp;quot;external_mention_url&amp;quot;:{}},&amp;quot;isKeepQuoteContainer&amp;quot;:false,&amp;quot;isFromCode&amp;quot;:false,&amp;quot;selection&amp;quot;:[{&amp;quot;id&amp;quot;:362,&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;selection&amp;quot;:{&amp;quot;start&amp;quot;:0,&amp;quot;end&amp;quot;:8},&amp;quot;recordId&amp;quot;:&amp;quot;F9bgd2WZQo6FrIxcKRLcYr8Jnsd&amp;quot;}],&amp;quot;payloadMap&amp;quot;:{},&amp;quot;isCut&amp;quot;:false}&quot; data-lark-record-format=&quot;docx/text&quot; class=&quot;lark-record-clipboard&quot;&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="370" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="n5_pPfGK2vTlMEEAhu4P-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="&lt;div data-page-id=&quot;Ajjld60XQobquVxwAPBce9Ghn3S&quot; data-lark-html-role=&quot;root&quot; data-docx-has-block-data=&quot;false&quot;&gt;&lt;div class=&quot;ace-line ace-line old-record-id-SYHEdOVXRomCwCxJAu5chU77nHg&quot;&gt;闭环健康管理&lt;/div&gt;&lt;div class=&quot;ace-line ace-line old-record-id-SYHEdOVXRomCwCxJAu5chU77nHg&quot;&gt;与数据分析&lt;/div&gt;&lt;/div&gt;&lt;span data-lark-record-data=&quot;{&amp;quot;rootId&amp;quot;:&amp;quot;Ajjld60XQobquVxwAPBce9Ghn3S&amp;quot;,&amp;quot;text&amp;quot;:{&amp;quot;initialAttributedTexts&amp;quot;:{&amp;quot;text&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;闭环健康管理与数据分析&amp;quot;},&amp;quot;attribs&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;*0+b&amp;quot;}},&amp;quot;apool&amp;quot;:{&amp;quot;numToAttrib&amp;quot;:{&amp;quot;0&amp;quot;:[&amp;quot;author&amp;quot;,&amp;quot;7210366426987724801&amp;quot;]},&amp;quot;nextNum&amp;quot;:1}},&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;referenceRecordMap&amp;quot;:{},&amp;quot;extra&amp;quot;:{&amp;quot;channel&amp;quot;:&amp;quot;saas&amp;quot;,&amp;quot;isEqualBlockSelection&amp;quot;:true,&amp;quot;pasteRandomId&amp;quot;:&amp;quot;a8ab7f5b-93a4-45b2-a014-e8f398f18cb5&amp;quot;,&amp;quot;mention_page_title&amp;quot;:{},&amp;quot;external_mention_url&amp;quot;:{}},&amp;quot;isKeepQuoteContainer&amp;quot;:false,&amp;quot;isFromCode&amp;quot;:false,&amp;quot;selection&amp;quot;:[{&amp;quot;id&amp;quot;:349,&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;selection&amp;quot;:{&amp;quot;start&amp;quot;:0,&amp;quot;end&amp;quot;:11},&amp;quot;recordId&amp;quot;:&amp;quot;SYHEdOVXRomCwCxJAu5chU77nHg&amp;quot;}],&amp;quot;payloadMap&amp;quot;:{},&amp;quot;isCut&amp;quot;:false}&quot; data-lark-record-format=&quot;docx/text&quot; class=&quot;lark-record-clipboard&quot;&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="290" y="235" as="geometry" />
+        </mxCell>
+        <mxCell id="n5_pPfGK2vTlMEEAhu4P-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="&lt;div data-page-id=&quot;Ajjld60XQobquVxwAPBce9Ghn3S&quot; data-lark-html-role=&quot;root&quot; data-docx-has-block-data=&quot;false&quot;&gt;&lt;div class=&quot;ace-line ace-line old-record-id-DMnQdWA6BoTLoPx8FQLc6acxn7f&quot;&gt;健康作息提醒&lt;/div&gt;&lt;/div&gt;&lt;span data-lark-record-data=&quot;{&amp;quot;rootId&amp;quot;:&amp;quot;Ajjld60XQobquVxwAPBce9Ghn3S&amp;quot;,&amp;quot;text&amp;quot;:{&amp;quot;initialAttributedTexts&amp;quot;:{&amp;quot;text&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;健康作息提醒&amp;quot;},&amp;quot;attribs&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;*0+6&amp;quot;}},&amp;quot;apool&amp;quot;:{&amp;quot;numToAttrib&amp;quot;:{&amp;quot;0&amp;quot;:[&amp;quot;author&amp;quot;,&amp;quot;7210366426987724801&amp;quot;]},&amp;quot;nextNum&amp;quot;:1}},&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;referenceRecordMap&amp;quot;:{},&amp;quot;extra&amp;quot;:{&amp;quot;channel&amp;quot;:&amp;quot;saas&amp;quot;,&amp;quot;isEqualBlockSelection&amp;quot;:true,&amp;quot;pasteRandomId&amp;quot;:&amp;quot;2a80ff5b-68b8-4b0b-ad03-293022e37ff9&amp;quot;,&amp;quot;mention_page_title&amp;quot;:{},&amp;quot;external_mention_url&amp;quot;:{}},&amp;quot;isKeepQuoteContainer&amp;quot;:false,&amp;quot;isFromCode&amp;quot;:false,&amp;quot;selection&amp;quot;:[{&amp;quot;id&amp;quot;:359,&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;selection&amp;quot;:{&amp;quot;start&amp;quot;:0,&amp;quot;end&amp;quot;:6},&amp;quot;recordId&amp;quot;:&amp;quot;DMnQdWA6BoTLoPx8FQLc6acxn7f&amp;quot;}],&amp;quot;payloadMap&amp;quot;:{},&amp;quot;isCut&amp;quot;:false}&quot; data-lark-record-format=&quot;docx/text&quot; class=&quot;lark-record-clipboard&quot;&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="370" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="n5_pPfGK2vTlMEEAhu4P-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="&lt;div data-page-id=&quot;Ajjld60XQobquVxwAPBce9Ghn3S&quot; data-lark-html-role=&quot;root&quot; data-docx-has-block-data=&quot;false&quot;&gt;&lt;div class=&quot;ace-line ace-line old-record-id-K46udacWronUGzxd4dKcFcBJnnf&quot;&gt;客观推荐保健品&lt;/div&gt;&lt;/div&gt;&lt;span data-lark-record-data=&quot;{&amp;quot;rootId&amp;quot;:&amp;quot;Ajjld60XQobquVxwAPBce9Ghn3S&amp;quot;,&amp;quot;text&amp;quot;:{&amp;quot;initialAttributedTexts&amp;quot;:{&amp;quot;text&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;客观推荐保健品&amp;quot;},&amp;quot;attribs&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;*0+7&amp;quot;}},&amp;quot;apool&amp;quot;:{&amp;quot;numToAttrib&amp;quot;:{&amp;quot;0&amp;quot;:[&amp;quot;author&amp;quot;,&amp;quot;7210366426987724801&amp;quot;]},&amp;quot;nextNum&amp;quot;:1}},&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;referenceRecordMap&amp;quot;:{},&amp;quot;extra&amp;quot;:{&amp;quot;channel&amp;quot;:&amp;quot;saas&amp;quot;,&amp;quot;isEqualBlockSelection&amp;quot;:true,&amp;quot;pasteRandomId&amp;quot;:&amp;quot;ed74f835-6b9a-45f2-a445-a9608037c5dd&amp;quot;,&amp;quot;mention_page_title&amp;quot;:{},&amp;quot;external_mention_url&amp;quot;:{}},&amp;quot;isKeepQuoteContainer&amp;quot;:false,&amp;quot;isFromCode&amp;quot;:false,&amp;quot;selection&amp;quot;:[{&amp;quot;id&amp;quot;:343,&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;selection&amp;quot;:{&amp;quot;start&amp;quot;:0,&amp;quot;end&amp;quot;:7},&amp;quot;recordId&amp;quot;:&amp;quot;K46udacWronUGzxd4dKcFcBJnnf&amp;quot;}],&amp;quot;payloadMap&amp;quot;:{},&amp;quot;isCut&amp;quot;:false}&quot; data-lark-record-format=&quot;docx/text&quot; class=&quot;lark-record-clipboard&quot;&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="370" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="n5_pPfGK2vTlMEEAhu4P-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;rounded=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" value="&lt;div data-page-id=&quot;Ajjld60XQobquVxwAPBce9Ghn3S&quot; data-lark-html-role=&quot;root&quot; data-docx-has-block-data=&quot;false&quot;&gt;&lt;div class=&quot;ace-line ace-line old-record-id-AAB0d8Y1woICuJxlaKxcdbR0ngb&quot;&gt;健康知识科普&lt;/div&gt;&lt;/div&gt;&lt;span data-lark-record-data=&quot;{&amp;quot;rootId&amp;quot;:&amp;quot;Ajjld60XQobquVxwAPBce9Ghn3S&amp;quot;,&amp;quot;text&amp;quot;:{&amp;quot;initialAttributedTexts&amp;quot;:{&amp;quot;text&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;健康知识科普&amp;quot;},&amp;quot;attribs&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;*0+6&amp;quot;}},&amp;quot;apool&amp;quot;:{&amp;quot;numToAttrib&amp;quot;:{&amp;quot;0&amp;quot;:[&amp;quot;author&amp;quot;,&amp;quot;7210366426987724801&amp;quot;]},&amp;quot;nextNum&amp;quot;:1}},&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;referenceRecordMap&amp;quot;:{},&amp;quot;extra&amp;quot;:{&amp;quot;channel&amp;quot;:&amp;quot;saas&amp;quot;,&amp;quot;isEqualBlockSelection&amp;quot;:true,&amp;quot;pasteRandomId&amp;quot;:&amp;quot;01b8973f-5706-4e27-bf32-da03fd02796b&amp;quot;,&amp;quot;mention_page_title&amp;quot;:{},&amp;quot;external_mention_url&amp;quot;:{}},&amp;quot;isKeepQuoteContainer&amp;quot;:false,&amp;quot;isFromCode&amp;quot;:false,&amp;quot;selection&amp;quot;:[{&amp;quot;id&amp;quot;:356,&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;selection&amp;quot;:{&amp;quot;start&amp;quot;:0,&amp;quot;end&amp;quot;:6},&amp;quot;recordId&amp;quot;:&amp;quot;AAB0d8Y1woICuJxlaKxcdbR0ngb&amp;quot;}],&amp;quot;payloadMap&amp;quot;:{},&amp;quot;isCut&amp;quot;:false}&quot; data-lark-record-format=&quot;docx/text&quot; class=&quot;lark-record-clipboard&quot;&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="50" width="90" x="280" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="n5_pPfGK2vTlMEEAhu4P-20" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=8;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="470" y="480" as="sourcePoint" />
+            <mxPoint x="470" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n5_pPfGK2vTlMEEAhu4P-21" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=8;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="470" y="350" as="sourcePoint" />
+            <mxPoint x="470" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n5_pPfGK2vTlMEEAhu4P-22" parent="1" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=13;fontColor=default;" value="&lt;font color=&quot;#060a26&quot; face=&quot;Microsoft YaHei, Segoe UI, system-ui, Roboto, Noto Sans SC, Helvetica Neue, Arial, sans-serif&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;健康知识问答&lt;/span&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="110" width="20" x="480" y="365" as="geometry" />
+        </mxCell>
+        <mxCell id="n5_pPfGK2vTlMEEAhu4P-23" parent="1" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=13;fontColor=default;" value="&lt;span style=&quot;color: rgb(6, 10, 38); font-family: &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Segoe UI&amp;quot;, system-ui, Roboto, &amp;quot;Noto Sans SC&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; white-space-collapse: preserve; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;持续健康记录&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="20" x="480" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="n5_pPfGK2vTlMEEAhu4P-24" parent="1" style="text;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=13;fontColor=default;" value="&lt;span style=&quot;color: rgb(6, 10, 38); font-family: &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Segoe UI&amp;quot;, system-ui, Roboto, &amp;quot;Noto Sans SC&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Arial, sans-serif; white-space-collapse: preserve; background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;健康管理系统&lt;/span&gt;" vertex="1">
+          <mxGeometry height="110" width="20" x="530" y="235" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
